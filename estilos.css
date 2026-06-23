@@ -1051,7 +1051,7 @@
         		        object-fit: contain;
         		
         		        /* Escala de grises masculina */
-        		        filter: brightness(0) saturate(100%) invert(12%) sepia(100%) saturate(6000%) hue-rotate(-15deg) brightness(90%) contrast(95%);
+        		        /*filter: brightness(0) saturate(100%) invert(12%) sepia(100%) saturate(6000%) hue-rotate(-15deg) brightness(90%) contrast(95%);*/
         		
         		        opacity: 0.9;
 						/* Animación flotante más marcada */
